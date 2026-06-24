@@ -55,9 +55,9 @@ game statistics recording, and a Top 5 Scorers leaderboard.
 ### Step 3: Configure Database Connection
 Open `src/DatabaseManager.java` and update:
 ```java
-private static final String URL      = "jdbc:postgresql://localhost:5432/game_project";
+private static final String URL      = "jdbc:postgresql://localhost:5433/game_project";
 private static final String USER     = "postgres";   // your PostgreSQL username
-private static final String PASSWORD = "postgres";   // your PostgreSQL password
+private static final String PASSWORD = "5026251130";   // your PostgreSQL password
 ```
 
 ### Step 4: Run the Program
