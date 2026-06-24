@@ -1,8 +1,8 @@
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 
 ## Student Information
-Name       : [Your Name Here]
-Student ID : [Your Student ID]
+Name       : Fauzta Athallah Nayottama
+Student ID : 5026251130
 Class      : ES234211 – Programming Fundamental
 
 ---
