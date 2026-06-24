@@ -3,8 +3,7 @@
 ## Student Information
 Name       : Fauzta Athallah Nayottama
 Student ID : 5026251130
-Class      : ES234211 – Programming Fundamental
-
+Class      : A
 ---
 
 ## Project Description
@@ -15,12 +14,12 @@ game statistics recording, and a Top 5 Scorers leaderboard.
 ---
 
 ## Features
-- ✅ Login using PostgreSQL database (username & password check)
-- ✅ Play Tic-Tac-Toe using Java Swing GUI (3x3 board with JButton)
-- ✅ Computer AI (tries to win, blocks player, or picks random cell)
-- ✅ Record wins, losses, draws, and score after each game
-- ✅ Display personal statistics (My Statistics window)
-- ✅ Display Top 5 scorers using JTable (retrieved from database)
+-  Login using PostgreSQL database (username & password check)
+-  Play Tic-Tac-Toe using Java Swing GUI (3x3 board with JButton)
+-  Computer AI (tries to win, blocks player, or picks random cell)
+-  Record wins, losses, draws, and score after each game
+-  Display personal statistics (My Statistics window)
+-  Display Top 5 scorers using JTable (retrieved from database)
 
 ---
 
