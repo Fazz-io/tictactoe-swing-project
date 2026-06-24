@@ -1,8 +1,8 @@
 # Simple Tic-Tac-Toe Game with Java Swing, Login, and Statistics
 
 ## Student Information
-Name       : [Your Name Here]
-Student ID : [Your Student ID]
+Name       : Fauzta Athallah Nayottama
+Student ID : 5026251130
 Class      : ES234211 – Programming Fundamental
 
 ---
@@ -88,29 +88,6 @@ Run `src/Main.java`
 | `GameFrame` | Swing window for playing the game. Connects buttons to GameLogic. |
 | `StatisticsFrame` | Swing window showing personal statistics from database. |
 | `TopScorersFrame` | Swing window showing Top 5 scorers using JTable from database. |
-
----
-
-## Repository Structure
-```
-student-swing-game-project/
-├── src/
-│   ├── Main.java
-│   ├── DatabaseManager.java
-│   ├── Player.java
-│   ├── PlayerService.java
-│   ├── GameLogic.java
-│   ├── LoginFrame.java
-│   ├── MainMenuFrame.java
-│   ├── GameFrame.java
-│   ├── StatisticsFrame.java
-│   └── TopScorersFrame.java
-├── database/
-│   └── schema.sql
-├── screenshots/
-│   └── (add screenshots here)
-└── README.md
-```
 
 ---
 
