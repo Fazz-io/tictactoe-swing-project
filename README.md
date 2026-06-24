@@ -91,7 +91,21 @@ Run `src/Main.java`
 ---
 
 ## Screenshots
-*(Add screenshots of Login Window, Game Window, Statistics, and Top 5 Scorers here)*
+
+### Login Window
+![Login Window](screenshots/login.png)
+
+### Main Menu
+![Main Menu](screenshots/mainmenu.png)
+
+### Game Window
+![Game Window](screenshots/game.png)
+
+### Statistics
+![Statistics](screenshots/statistics.png)
+
+### Top 5 Scorers
+![Top 5 Scorers](screenshots/topscorers.png)
 
 ---
 
