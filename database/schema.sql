@@ -1,9 +1,3 @@
--- ==============================================
--- ES234211 - Programming Fundamental
--- Simple Game Project - Database Schema
--- Database: PostgreSQL
--- ==============================================
-
 -- Create database (run this separately in psql if needed)
 -- CREATE DATABASE game_project;
 
