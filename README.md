@@ -110,5 +110,5 @@ Run `src/Main.java`
 ---
 
 ## Links
-- **GitHub:** [Your GitHub Repository URL]
-- **YouTube:** [Your YouTube Video URL]
+- **GitHub:** (https://github.com/Fazz-io/tictactoe-swing-project)
+- **YouTube:** (https://youtu.be/th943itQKTE)
